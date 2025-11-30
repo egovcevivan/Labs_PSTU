@@ -1,17 +1,19 @@
 #include <iostream>
 
+using namespace std;
+
 int main () {
     float a;
-    std::cin >> a;
+    cin >> a;
 
     if (a < 5) {
-        std::cout << a * 3 << std::endl;
+        cout << a * 3 << endl;
     }
     else if (5 <= a && a <= 7) {
-        std::cout << a / 10 << std::endl;
+        cout << a / 10 << endl;
     }
     else {
-        std::cout << a + 3 << std::endl;
+        cout << a + 3 << endl;
     }
 
     return 0;

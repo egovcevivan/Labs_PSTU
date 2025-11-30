@@ -1,8 +1,11 @@
 #include <iostream>
 
+using namespace std;
+
 int main() {
+
     int a, b, c, max;
-    std::cin >> a >> b >> c;
+    cin >> a >> b >> c;
 
     if (a >= b && a >= c) {
         max = a;
@@ -14,7 +17,7 @@ int main() {
         max = c;
     }
 
-    std::cout << max << std::endl;
-    return 0;
+    cout << max << endl;
 
+    return 0;
 }
