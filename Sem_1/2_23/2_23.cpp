@@ -25,7 +25,7 @@ int main() {
         }
     }
 
-    cout << "Max: " << max << " Num: " << num << endl;
+    cout << "Max: " << max << " Count: " << num << endl;
 
     return 0;
 }
