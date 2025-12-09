@@ -3,10 +3,13 @@
 using namespace std;
 
 int main() {
-    float n = 1.1;
+    float n;
     float * ptr = &n;
 
-    cout << "Now value n = " << n << " Enter new value for n:" << endl;
+    cin >> n;
+
+    cout << n << endl;
+
     cin >> n;
 
     *ptr = n;
