@@ -10,7 +10,7 @@ int main() {
     cout << "Enter k: ";
     cin >> k;
 
-    for (int i = 0; i < k; i++) {
+    for (int i = 0; i < k % Size; i++) {
         temp = arr[0];
 
         for (int j = 0; j < Size - 1; j++) { 
