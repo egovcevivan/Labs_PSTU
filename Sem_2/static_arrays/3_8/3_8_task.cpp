@@ -17,11 +17,10 @@ int main() {
     int j = 0;
 
      for (int i = 0; i < Size; i++) {
-        arr_2[j++] = arr[i];
-    
         if (arr[i] % 2 == 0) {
             arr_2[j++] = -1;
         }
+        arr_2[j++] = arr[i];
     }
 
     for (int i = 0; i < Size + cnt; i++) {
