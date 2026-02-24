@@ -46,6 +46,6 @@
 | п/п | Описание |Статус: код/схема |Ссылка на папку|
 |---|---|---|---|
 |simple_sortings|Сортировка пузырьком, вставкой, выбором|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/simple_sorting|
-|static_arrays|Работа со статичныи массивами|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/static_arrays|
+|static_arrays|Работа со статичныи массивами|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/ne_labs/static_arrays|
 |lab_1|4-я лабораторная из зелёной методички|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/lab_4|
 |lab_2|5-я лабораторная работа из зелёной методички|🟠/🟠| |
