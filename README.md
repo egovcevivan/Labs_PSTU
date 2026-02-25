@@ -52,8 +52,8 @@
 |Lab №5|Задача о 8-ми ферзях|🔴/🔴| |
 |Lab №6|Простые сортировки(пузырьком, выбором, вставкой) |🟢/🟢| https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/simple_sorting|
 |Lab №7|10-я лабораторная в зелёной методичке|🔴/🔴| |
-|Lab №8|7.1-я лабораторная в зелёной методичке|🔴/🔴| |
-|Lab №9|7.2-я лабораторная в зелёной методичке|🔴/🔴| |
+|Lab №8|7.1-я лабораторная в зелёной методичке|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_7_1|
+|Lab №9|7.2-я лабораторная в зелёной методичке|🟢/🟢| |
 |Lab №10|6-я лабораторная из зелёной методички - 6 вариант|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_6|
 |static_arrays|Работа со статичныи массивами|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/ne_labs/static_arrays|
 
