@@ -48,7 +48,7 @@
 |Lab №1|4-я лабораторная из методички - 6 варинат |🟢/🟢 | https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_4|
 |Lab №2|5-я лабораторная работа из зелёной методички - 6 вариант|🟠/🟠| |
 |Lab №3|3-я лабораторная из зелёной методички (5 вариант) + НОД + числа Фибоначчи |🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_3|
-|Lab №4|Ханойская башня|🟠/🟠| |
+|Lab №4|Ханойская башня|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/hanoi|
 |Lab №5|Задача о 8-ми ферзях|🔴/🔴| |
 |Lab №6|Простые сортировки(пузырьком, выбором, вставкой) |🟢/🟢| https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/simple_sorting|
 |Lab №7|10-я лабораторная в зелёной методичке|🔴/🔴| |
