@@ -57,7 +57,7 @@
 |Lab №8|7.1-я лабораторная из зелёной методички (6 варинат)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_7_1|
 |Lab №9|7.2-я лабораторная из зелёной методички (6 варинат)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_7_2|
 |Lab №10|6-я лабораторная из зелёной методички (6 вариант)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_6|
-|Lab №11|9-я лабораторная из зелёной методички (6 вариант)|🟢/🟢 | |
+|Lab №11|9-я лабораторная из зелёной методички (6 вариант)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_9|
 |Lab №12|8-я лабораторная из зелёной методички(6 вариант)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_8|
 
 ### Не лабораторные
