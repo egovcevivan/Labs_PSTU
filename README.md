@@ -61,7 +61,7 @@
 |Lab №12|8-я лабораторная из зелёной методички(6 вариант)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_8|
 |Lab №13|11-я лабораторная из зелёной методички(6 вариант) на однонаправленные списки|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_11_1|
 |Lab №14|11-я лабораторная из зелёной методички(6 вариант) на двунаправленные списки|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_11_2|
-|Lab №15|11-я лабораторная из зелёной методички(6 вариант) на стеки|🟢/🟢| |
+|Lab №15|11-я лабораторная из зелёной методички(6 вариант) на стеки|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_11_3|
 |Lab №16|11-я лабораторная из зелёной методички(6 вариант) на очереди|🟢/🟢| |
 |Lab №17| | | |
 
