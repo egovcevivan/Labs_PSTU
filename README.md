@@ -63,7 +63,7 @@
 |Lab №14|11-я лабораторная из зелёной методички(6 вариант) на двунаправленные списки|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_11_2|
 |Lab №15|11-я лабораторная из зелёной методички(6 вариант) на стеки|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_11_3|
 |Lab №16|11-я лабораторная из зелёной методички(6 вариант) на очереди|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_11_4|
-|Lab №17| | | |
+|Lab №17|Простые поиски: линейный, бинарный, интерполяционный|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_12|
 
 ### Не лабораторные
 | п/п | Описание |Статус: код/схема |Ссылка на папку|
