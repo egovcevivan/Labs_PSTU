@@ -64,7 +64,7 @@
 |Lab №15|11-я лабораторная из зелёной методички(6 вариант) на стеки|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_11_3|
 |Lab №16|11-я лабораторная из зелёной методички(6 вариант) на очереди|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_11_4|
 |Lab №17|Простые поиски: линейный, бинарный, интерполяционный|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_12|
-|Lab №18|Поиски подстроки в строке(наивный, Бойер-Мур, КМП)|🟠/🟠||
+|Lab №18|Поиски подстроки в строке(наивный, Бойер-Мур, КМП)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_13|
 |Lab №19|Быстрая сортировка по Ломуто, сортировки слиянием, подсчётом и блочная|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_14|
 |Lab №20|Быстрая сортировка по Хоару и сортировка Шелла|🟠/🟠||
 |Lab №21|Многофазная и естественная сортировки|🔴/🔴||
