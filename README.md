@@ -73,12 +73,12 @@
 #### Классы
 | п/п | Описание |Статус: код/схема |Ссылка на папку|
 |---|---|---|---|
-|Lab №23|1-я лабораторная из методички классов (6 варинат)|🟢/🟠|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_1|
-|Lab №24|2-я лабораторная из методички классов (6 варинат)|🟢/🟠|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_2|
-|Lab №25|3-я лабораторная из методички классов (6 варинат)|🟢/🟠|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_3|
-|Lab №26|4-я лабораторная из методички классов (6 варинат)|🟢/🟠|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_4|
-|Lab №27|5-я лабораторная из методички классов (6 варинат)|🟢/🟠|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_5|
-|Lab №28|6-я лабораторная из методички классов (6 варинат)|🟢/🟠|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_6|
+|Lab №23|1-я лабораторная из методички классов (6 варинат)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_1|
+|Lab №24|2-я лабораторная из методички классов (6 варинат)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_2|
+|Lab №25|3-я лабораторная из методички классов (6 варинат)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_3|
+|Lab №26|4-я лабораторная из методички классов (6 варинат)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_4|
+|Lab №27|5-я лабораторная из методички классов (6 варинат)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_5|
+|Lab №28|6-я лабораторная из методички классов (6 варинат)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_6|
 |Lab №29|7-я лабораторная из методички классов (6 варинат)|🟢/🟠|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_7|
 |Lab №30|8-я лабораторная из методички классов (6 варинат)|🟢/🟠|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_8|
 |Lab №31|9-я лабораторная из методички классов (6 варинат)|🟢/🟠|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_9|
