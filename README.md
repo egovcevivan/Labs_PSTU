@@ -67,8 +67,8 @@
 |Lab №18|Поиски подстроки в строке(наивный, Бойер-Мур, КМП)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_13|
 |Lab №19|Быстрая сортировка по Ломуто, сортировки слиянием, подсчётом и блочная|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_14|
 |Lab №20|Быстрая сортировка по Хоару и сортировка Шелла|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_15|
-|Lab №21|Многофазная и естественная сортировки|🔴/🔴||
-|Lab №22|Хэш-таблица|🔴/🔴||
+|Lab №21|Многофазная и естественная сортировки|🟢/🟠|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/labs/lab_16|
+|Lab №22|Хэш-таблица|🟢/🟠||
 
 #### Классы
 | п/п | Описание |Статус: код/схема |Ссылка на папку|
