@@ -12,7 +12,7 @@ class Long : public Pair {
         Long(const Long&);
         ~Long(); 
         
-        void Show();
+        void Show() override;
 
         void SetSnd(int a);
 

@@ -12,7 +12,7 @@ class Vector {
         Vector (const Vector&);
         ~Vector(); 
 
-        friend std::ostream& operator<<(ostream&, const Vector&);
+        friend ostream& operator<<(ostream&, const Vector&);
 
         void Add(Base*);
 };
