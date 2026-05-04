@@ -4,6 +4,8 @@
 #include "Event.h"
 
 class Dialog : public List {
+    protected:
+        int EndState;
     public:
         Dialog();
         virtual ~Dialog();
@@ -13,8 +15,6 @@ class Dialog : public List {
         virtual void ClearEvent (TEvent&);
         int Valid();
         void EndExec();
-    protected:
-        int EndState;
 };
 
 #endif
