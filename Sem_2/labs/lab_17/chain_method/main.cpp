@@ -153,7 +153,6 @@ int main() {
     Data s2 = {"Pit", 234};
     Data s3 = {"Pet", 345};
     Data s4 = {"Nik", 456};
-    Data s5 = {"Ann", 678};
 
     a.insert("Lenina", s1);
     a.insert("Bolshevitskia", s3);

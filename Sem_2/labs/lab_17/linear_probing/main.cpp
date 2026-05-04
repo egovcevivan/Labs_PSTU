@@ -122,33 +122,19 @@ int main() {
     Data s1 = {"Lenina", "Piter", 123};
     Data s2 = {"Bolshevitskia", "Pit", 234};
     Data s3 = {"Kirovskia", "Pet", 345};
-    Data s4 = {"Bebrina", "Nik", 456};
-    Data s5 = {"Leni", "Ann", 678};
-    Data s6 = {"Lenin", "Are", 708};
-    Data s7 = {"Len", "Aner", 198};
-    Data s8 = {"Le", "Ano", 358};
-    Data s9 = {"L", "Alo", 908};
-    Data s10 = {"nina", "Aas", 698};
-    Data s11 = {"ni", "Artgn", 698};
+    Data s4 = {"Lenina", "Pony", 755};
 
     a.insert(s1);
     a.insert(s2);
     a.insert(s3);
-    a.insert(s4);
-    a.insert(s5);
-    a.insert(s6);
-    a.insert(s7);
-    a.insert(s8);
-    a.insert(s9);
-    a.insert(s10);
-    a.insert(s11);
+    
 
     a.search("Lenina");
     a.search("Bebrina");
 
     a.print_table();
     a.del_elem("Lenina");
-    a.insert(s11);
+    a.insert(s4);
     a.print_table();
 
     a.clear_table();
