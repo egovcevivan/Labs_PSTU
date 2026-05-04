@@ -27,7 +27,5 @@ class Money {
 
         long GetRubles() const;
         int GetPennies() const;
-
-        void Balance();
 };
 #endif

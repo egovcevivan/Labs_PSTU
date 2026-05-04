@@ -5,7 +5,6 @@
 class Set {
     private:
         int size;
-        int real_size;
         int * data;
     public:
         Set();
