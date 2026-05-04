@@ -80,7 +80,7 @@
 |Lab №27|5-я лабораторная из методички классов (6 варинат)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_5|
 |Lab №28|6-я лабораторная из методички классов (6 варинат)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_6|
 |Lab №29|7-я лабораторная из методички классов (6 варинат)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_7|
-|Lab №30|8-я лабораторная из методички классов (6 варинат)|🟢/🟠|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_8|
+|Lab №30|8-я лабораторная из методички классов (6 варинат)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_8|
 |Lab №31|9-я лабораторная из методички классов (6 варинат)|🟢/🟢|https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/classes/lab_9|
 |Lab №32|10-я лабораторная из методички классов (6 варинат)|🟠/🟠||
 |Lab №33|11-я лабораторная из методички классов (6 варинат)|🟠/🟠||
