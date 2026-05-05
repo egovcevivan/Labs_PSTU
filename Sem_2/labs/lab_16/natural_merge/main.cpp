@@ -88,8 +88,6 @@ int merge(string in1, string in2, string out1, string out2) {
             
             bool end_series1 = false;
             bool end_series2 = false;
-
-            
             bool stop_series = false;
 
             while (!stop_series) {
@@ -133,7 +131,9 @@ int merge(string in1, string in2, string out1, string out2) {
                     int temp;
                     if (f2 >> temp) {
 
-                        if (temp < val2) end_series2 = true;
+                        if (temp < val2) {
+                            end_series2 = true;
+                        }
                         prev2 = val2;
                         val2 = temp;
                     } 
@@ -153,7 +153,9 @@ int merge(string in1, string in2, string out1, string out2) {
                 int temp;
 
                 if (f1 >> temp) {
-                    if (temp < val1) break;
+                    if (temp < val1) {
+                        break;
+                    }
                     val1 = temp;
                 } 
                 else {
@@ -166,7 +168,9 @@ int merge(string in1, string in2, string out1, string out2) {
                 int temp;
 
                 if (f2 >> temp) {
-                    if (temp < val2) break;
+                    if (temp < val2) {
+                        break;
+                    }
                     val2 = temp;
                 } else {
                     break;
@@ -187,7 +191,7 @@ void external_sort(string input, string output) {
     int series = distribution(input, "f1.txt", "f2.txt");
 
     if (series <= 0) {
-        cerr << "Distribution failed" << endl;
+        cerr << "Error" << endl;
         return;
     }
 
