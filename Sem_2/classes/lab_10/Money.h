@@ -1,7 +1,8 @@
-#pragma once
-#include <iostream>
+#ifndef MONEY
+#define MONEY
 
-using namespace std;
+#include <iostream>
+#include <fstream>
 
 class Money {
     long Rubles;
@@ -14,17 +15,14 @@ class Money {
         ~Money();
 
         Money& operator=(const Money&);
-
         Money operator+(const Money&);
-        friend Money operator+(const Money&, double);
-        friend Money operator+(double, const Money&);
-
         Money operator-(const Money&);
-        friend Money operator-(const Money&, double);
-        friend double operator-(double, const Money&);
 
-        friend istream& operator>>(istream&, Money&);
-        friend ostream& operator<<(ostream&, Money&);
+        friend std::istream& operator>>(std::istream&, Money&);
+        friend std::ostream& operator<<(std::ostream&, Money&);
+
+        friend std::ifstream& operator>>(std::ifstream&, Money&);
+        friend std::ofstream& operator<<(std::ofstream&, Money&);
 
         void SetRubles(long);
         void SetPennies(int);
@@ -32,3 +30,4 @@ class Money {
         long GetRubles() const;
         int GetPennies() const;
 };
+#endif
